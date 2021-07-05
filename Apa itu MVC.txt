@@ -1,0 +1,6 @@
+Tujuan MVC
+Untuk memisahkan antara tampilan data dan proses
+
+Controller(Proses)
+    ||
+Model(Data) dan View(Tampilan)
